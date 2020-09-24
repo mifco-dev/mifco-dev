@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** 🐟 The official Github repository for Maldives Industrial Fisheries Comnpany Limited. 🐟
+ 🐟 The official Github repository for Maldives Industrial Fisheries Comnpany Limited. 🐟
 
 <!--
 **mifco-dev/mifco-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
